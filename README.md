@@ -1,6 +1,8 @@
-# Quantrade: AI-Driven Stock Price Prediction
+# Quantrade
 
 An advanced stock price prediction system that combines LSTM deep learning with sentiment analysis of financial news to improve forecasting accuracy.
+
+Quantrade leverages LSTM neural networks and financial news sentiment analysis to provide more accurate stock price predictions by incorporating market sentiment alongside historical trends. Built with Python, PyTorch, Flask, MongoDB, AWS S3, and NLTK.
 
 ## Features
 
